@@ -1,0 +1,34 @@
+body,
+html {
+	background: url("https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ram-mandir-image-1596552261.jpg") no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+h1{
+	background-color: red;
+
+}
+h2{
+	background-color: white;
+}
+.buffer{
+
+	height: 27rem;
+}
+.btn{
+	font-size: 100%;
+	padding: 1em 2em;
+	border-radius: 300px;
+	background-color: orange;
+	border-color: #fd7e14;
+	color: black;
+}
+
+.btn:hover {
+	background-color: #fd7e14;
+	border-color: orange;
+	border-width: 2px;
+
+}
